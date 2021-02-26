@@ -55,7 +55,7 @@ para fins de testes.
 Esse projeto foi desenvolvido com a linguagem C, utilizando os principais conceitos durante o curso técnico, como, por exemplo, 
 o uso de funções externas no mesmo arquivo, para fins de organização.
 
-### Diagrama de Blocos 
+### 📊 Diagrama de Blocos 
 
 Confira o diagrama do funcionamento do projeto:
 
