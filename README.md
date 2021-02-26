@@ -28,7 +28,7 @@
 🚧  Finalizado  🚧
 </h3>
 
-### 📎 Features 
+### 📎 Funcionalidades
 
 - [x] Sistema automatizado para manejo das portas
 - [x] Sistema de pesagem com alta precisão
@@ -64,6 +64,12 @@ o uso de funções externas no mesmo arquivo, para fins de organização.
 - Célula de Carga Single Point SP4MC3 10Kg
 - Módulo Conversor HX711
 - Teclado Matricial
+
+### Futuras Funcionalidade
+
+- Botão de Emergência: Responsável pela paralisação do sistema.
+- Botão Deletar/Corrigir Senha: Responsável pela correção da senha caso o usuário erre algum algoritmo.
+- Sensor Infravermelho: Responsável por inibir o funcionamento dos portões enquanto o feixe estiver cortado.
 
 ### 📝 Licença
 
