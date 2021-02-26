@@ -9,7 +9,7 @@
 <p align="center">Projeto balance.animals</p>
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=c&message=C18&color=0088CC&logo=c" />
+  <img src="https://img.shields.io/static/v1?message=C18&color=0088CC&logo=c" />
   <img src="https://img.shields.io/badge/last%21commit-february-important" />
   <img src="https://img.shields.io/badge/license-MIT-success"/>
 </p>
