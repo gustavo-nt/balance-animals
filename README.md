@@ -59,7 +59,7 @@ o uso de funções externas no mesmo arquivo, para fins de organização.
 
 Confira o diagrama do funcionamento do projeto:
 
-<img src="https://github.com/gustavo-nt/dev-finances/blob/master/public/assets/github/dev.finances-github.PNG" />
+<img src="https://github.com/gustavo-nt/balance-animals/blob/main/assets/Diagrama%20de%20Blocos.PNG" />
 
 ### 🔌 Principais Componentes
 
