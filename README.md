@@ -6,8 +6,6 @@
     Trabalho de Conclusão de Curso(TCC)
 </h1>
 
-<p align="center">Projeto balance.animals</p>
-
 <p align="center">
   <img src="https://img.shields.io/static/v1?message=C18&color=0088CC&logo=c" />
   <img src="https://img.shields.io/badge/last%21commit-february-important" />
@@ -15,9 +13,12 @@
 </p>
 
 <p align="center">
-  <a href="#-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-funcionalidade">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-pré-requisitos">Pré-Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Diagramas de Blocos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-principais componentes">Principais Componentes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-futuras funcionalidades">Futuras Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Lincença</a>
 </p>
 
@@ -68,7 +69,7 @@ Confira o diagrama do funcionamento do projeto:
 - Módulo Conversor HX711
 - Teclado Matricial
 
-### 💡 Futuras Funcionalidade
+### 💡 Futuras Funcionalidades
 
 - Botão de Emergência: Responsável pela paralisação do sistema.
 - Botão Deletar/Corrigir Senha: Responsável pela correção da senha caso o usuário erre algum algoritmo.
