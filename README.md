@@ -55,6 +55,16 @@ para fins de testes.
 Esse projeto foi desenvolvido com a linguagem C, utilizando os principais conceitos durante o curso técnico, como, por exemplo, 
 o uso de funções externas no mesmo arquivo, para fins de organização.
 
+### 🔌 Principais Componentes
+
+- Microcontrolador PIC16F877A
+- Ponte H Dupla L298N
+- Micromotores G12-N20-100
+- Display LCD 20x4
+- Célula de Carga Single Point SP4MC3 10Kg
+- Módulo Conversor HX711
+- Teclado Matricial
+
 ### 📝 Licença
 
 Esse projeto está sob a licença MIT.
