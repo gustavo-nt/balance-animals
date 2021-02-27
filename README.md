@@ -38,8 +38,8 @@
 
 ### ✅ Demonstração
 <p>
-  <img src="https://github.com/gustavo-nt/dev-finances/blob/master/public/assets/github/dev.finances-github.PNG" width="50%"/>
-  <img src="https://github.com/gustavo-nt/dev-finances/blob/master/public/assets/github/dev.finances-github.PNG" width="50%"/>
+  <img src="https://github.com/gustavo-nt/balance-animals/blob/main/assets/demonstracao-1.jpeg" width="50%"/>
+  <img src="https://github.com/gustavo-nt/balance-animals/blob/main/assets/demonstracao-2.jpeg" width="50%"/>
 </p>
 
 ### ⚙ Pré-requisitos
