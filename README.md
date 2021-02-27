@@ -1,5 +1,5 @@
 <h4 align="center">
-  <img src="https://github.com/gustavo-nt/dev-finances/blob/master/public/assets/github/logo.svg" alt="logo" width="400px"/>
+  <img src="https://github.com/gustavo-nt/balance-animals/blob/main/assets/logo.png" alt="logo" width="400px"/>
 </h4>
 
 <h1 align="center">
