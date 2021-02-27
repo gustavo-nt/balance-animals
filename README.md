@@ -38,8 +38,8 @@
 
 ### ✅ Demonstração
 <p>
-  <img src="https://github.com/gustavo-nt/balance-animals/blob/main/assets/demonstracao-1.jpeg" width="45%"/>
-  <img src="https://github.com/gustavo-nt/balance-animals/blob/main/assets/demonstracao-2.jpeg" width="45%"/>
+  <img src="https://github.com/gustavo-nt/balance-animals/blob/main/assets/demonstracao-1.jpeg" width="45%" height="200"/>
+  <img src="https://github.com/gustavo-nt/balance-animals/blob/main/assets/demonstracao-2.jpeg" width="45%" height="200"/>
 </p>
 
 ### ⚙ Pré-requisitos
