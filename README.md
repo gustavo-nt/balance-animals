@@ -37,7 +37,10 @@
 ---
 
 ### ✅ Demonstração
-<img src="https://github.com/gustavo-nt/dev-finances/blob/master/public/assets/github/dev.finances-github.PNG" />
+<h4 align="center">
+  <img src="https://github.com/gustavo-nt/dev-finances/blob/master/public/assets/github/dev.finances-github.PNG" width="50%"/>
+  <img src="https://github.com/gustavo-nt/dev-finances/blob/master/public/assets/github/dev.finances-github.PNG" width="50%"/>
+</h4>
 
 ### ⚙ Pré-requisitos
 
